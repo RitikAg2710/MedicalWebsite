@@ -1,0 +1,2 @@
+INSERT INTO `products` (`id`, `name`, `cname`, `description`, `price`, `image`, `scount`, `ocount`) VALUES
+(32, 'painkiller', 'Category2', 'This is a Painkiller', 62, 'uploads/Category1/59628a8cc04a37.23226975.jpg', 0, 0);
